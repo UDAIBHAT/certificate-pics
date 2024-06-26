@@ -7,3 +7,9 @@
 <img src = "portfolio pic.png" alt="Sample Image">
 <br>
 <img src = "c4.png" alt="Sample Image">
+<br>
+
+<img src = "c5.png" alt="Sample Image">
+<br>
+
+<img src = "c6.png" alt="Sample Image">
