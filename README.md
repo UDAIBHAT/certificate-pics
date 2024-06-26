@@ -13,3 +13,6 @@
 <br>
 
 <img src = "c6.png" alt="Sample Image">
+<br>
+<img src = "c7.png" alt="Sample Image">
+
